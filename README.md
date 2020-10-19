@@ -7,6 +7,7 @@ https://www.kagura.me/dev/20200828131600.html
 # 完整版:gradle-6.x-all.zip
 |文件名|下载链接|
 |--|--|
+| gradle-6.7-all.zip	| https://code.aliyun.com/kar/gradle-all-zip/raw/master/gradle-6.7-all.zip |
 | gradle-6.6.1-all.zip	| https://code.aliyun.com/kar/gradle-all-zip/raw/master/gradle-6.6.1-all.zip |
 | gradle-6.6-all.zip	| https://code.aliyun.com/kar/gradle-all-zip/raw/master/gradle-6.6-all.zip |
 | gradle-6.5.1-all.zip	| https://code.aliyun.com/kar/gradle-all-zip/raw/master/gradle-6.5.1-all.zip |
@@ -25,6 +26,7 @@ https://www.kagura.me/dev/20200828131600.html
 # 无源码版:gradle-6.x-bin.zip
 |文件名|下载链接|
 |--|--|
+| gradle-6.7-bin.zip	| https://code.aliyun.com/kar/gradle-bin-zip/raw/master/gradle-6.7-bin.zip |
 | gradle-6.6.1-bin.zip	| https://code.aliyun.com/kar/gradle-bin-zip/raw/master/gradle-6.6.1-bin.zip |
 | gradle-6.6-bin.zip	| https://code.aliyun.com/kar/gradle-bin-zip/raw/master/gradle-6.6-bin.zip |
 | gradle-6.5.1-bin.zip	| https://code.aliyun.com/kar/gradle-bin-zip/raw/master/gradle-6.5.1-bin.zip |
